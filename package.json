@@ -10,7 +10,8 @@
     "start": "nest start",
     "start:dev": "nest start --watch",
     "start:debug": "nest start --debug --watch",
-    "start:prod": "node dist/main",
+    "start:prod": "node dist/src/main.js",
+    "postinstall": "npm run prestart:prod",
     "lint": "tslint -p tsconfig.json -c tslint.json",
     "test": "jest",
     "test:watch": "jest --watch",
@@ -49,3 +50,8 @@
     "typescript": "3.7.2"
   }
 }
+
+
+ // "start:prod": "node dist/main",
+ // added for Heroku 
+
