@@ -50,8 +50,3 @@
     "typescript": "3.7.2"
   }
 }
-
-
- // "start:prod": "node dist/main",
- // added for Heroku 
-
