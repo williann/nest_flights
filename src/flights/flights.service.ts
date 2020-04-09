@@ -25,7 +25,7 @@ export class FlightsService {
 
    async query(orig: string, dest: string): Promise<any> {
    return await this.flightRepository.find({origin: orig, destination: dest});
- }
+  }
 
   async update(flight: Flight): Promise<UpdateResult> {
     return await this.flightRepository.update(flight.id, flight);
