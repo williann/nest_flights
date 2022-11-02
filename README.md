@@ -1,8 +1,6 @@
 hi will yova
 de app hasta web 1110
 
-d sera a master test
-
 consigna
 
 
