@@ -1,5 +1,5 @@
 hi will yova
-
+de app hasta web 1110
 
 ### Postgres TypeORM sample
 
@@ -9,7 +9,7 @@ hi will yova
 `npm install`
 
 or 
-
+canvas
 `yarn install`
 
 ### Running
