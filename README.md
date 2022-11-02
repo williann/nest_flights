@@ -2,7 +2,7 @@ hi will yova
 de app hasta web 1110
 
 ### Postgres TypeORM sample
-
+d sera a master
 ### Installation
 
 
