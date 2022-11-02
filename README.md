@@ -1,5 +1,5 @@
 hi will yova
-de hasta donde
+de app hasta web
 
 ### Postgres TypeORM sample
 
