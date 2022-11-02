@@ -1,5 +1,6 @@
 hi will yova
-de app hasta web
+de app hasta web 1110
+d master a sera
 
 ### Postgres TypeORM sample
 
@@ -9,7 +10,7 @@ de app hasta web
 `npm install`
 
 or 
-
+canvas
 `yarn install`
 
 ### Running
